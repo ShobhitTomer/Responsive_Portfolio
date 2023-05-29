@@ -1225,7 +1225,7 @@ img {
   }
 
   .about__info{
-    
+    justify-content: space-between;
   }
 
 }
